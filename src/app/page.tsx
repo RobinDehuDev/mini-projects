@@ -8,7 +8,7 @@ export default async function Home() {
         ceci est un site en construction, il sera modifié en fonction de mon
         temps libre.
         <p>
-          Pour l'instant une seule demo:
+          Pour l&apos;instant une seule demo:
           <Link href="game-of-life" className="pl-5 text-blue-200">
             Jeu de la vie
           </Link>
